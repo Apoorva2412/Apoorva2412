@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apoorva Mishra
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I have certification in Data science and machine learning  
 - 👀 Tech skills: Excel, SQL, Python, Tableau 
 - 📫 reach me on Linkedin - https://www.linkedin.com/in/apoorva-mishra-2b0330141/  
 email : apoorvamish2412@gmail.com
